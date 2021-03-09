@@ -23,7 +23,3 @@ Here are some ideas to get you started:
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trantuyet&show_icons=true&locale=en&layout=compact" alt="trantuyet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trantuyet&show_icons=true&locale=en" alt="trantuyet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trantuyet&" alt="trantuyet" /></p>
